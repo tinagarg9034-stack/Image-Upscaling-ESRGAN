@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+temp/
+output/
+results/
+models/*.pth
+Real-ESRGAN-master/weights/*.pth
+
+.streamlit/
+
+.DS_Store
+Thumbs.db
